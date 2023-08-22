@@ -1,9 +1,8 @@
 <template>
   <body>
     <div>
-      <b-table class="table" :items="items" />
+      <!-- <b-table class="table" :items="items" /> -->
     </div>
-    <div><iframe src="" frameborder="0"></iframe></div>
   </body>
 </template>
 
